@@ -17,6 +17,7 @@
 
  - Desktop Development
 
+<img align="left" title="C++" alt="C++" width="30px" src="https://user-images.githubusercontent.com/65444856/133030295-4df4d2da-9ea2-4914-af76-aadc8d25657c.png" />
 <img align="left" title="Java" alt="Java" width="30px" src="https://user-images.githubusercontent.com/65444856/133000423-0dcbdaa2-bd4e-4274-9d17-ce056fe319ee.png" />
 <img align="left" title="JUnit5" alt="JUnit5" width="30px" src="https://user-images.githubusercontent.com/65444856/133000373-50a5b894-f295-4ed9-b165-ea0e9343c583.png" />
 <img align="left" title="Mockito" alt="Mockito" width="30px" src="https://user-images.githubusercontent.com/65444856/133028506-2ed2dc33-8ec7-4817-af2d-bd236ec67bce.png" />
@@ -45,7 +46,8 @@
 <img align="left" title="GitHub" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" title="GitLab" alt="GitLab" width="30px" src="https://user-images.githubusercontent.com/65444856/133000298-37b72739-457a-4ba5-9c6b-d32d88a4b008.png" />
 <img align="left" title="Terminal" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" title="CheckStyle" alt="CheckStyle" width="30px" src="https://user-images.githubusercontent.com/65444856/133028663-b7a17351-d520-49a7-8888-1fcceeba2c65.png" />
+<img align="left" title="CheckStyle" alt="CheckStyle" width="30px" src="https://user-images.githubusercontent.com/65444856/133030496-f680af1c-3cd6-4af5-af47-f3a75d7c5906.png" />
+<img align="left" title="Maven" alt="Maven" width="30px" src="https://user-images.githubusercontent.com/65444856/133028663-b7a17351-d520-49a7-8888-1fcceeba2c65.png" />
 
 
 

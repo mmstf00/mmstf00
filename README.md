@@ -47,8 +47,8 @@
 <img align="left" title="GitLab" alt="GitLab" width="30px" src="https://user-images.githubusercontent.com/65444856/133000298-37b72739-457a-4ba5-9c6b-d32d88a4b008.png" />
 <img align="left" title="Regex" alt="Regex" width="30px" src="https://user-images.githubusercontent.com/65444856/133237972-1b26c7f8-439b-4993-a770-ebc82815b353.png" />
 <img align="left" title="Terminal" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" title="CheckStyle" alt="CheckStyle" width="30px" src="https://user-images.githubusercontent.com/65444856/133030496-f680af1c-3cd6-4af5-af47-f3a75d7c5906.png" />
-<img align="left" title="Maven" alt="Maven" width="30px" src="https://user-images.githubusercontent.com/65444856/133028663-b7a17351-d520-49a7-8888-1fcceeba2c65.png" />
+<img align="left" title="Maven" alt="Maven" width="30px" src="https://user-images.githubusercontent.com/65444856/133030496-f680af1c-3cd6-4af5-af47-f3a75d7c5906.png" />
+<img align="left" title="CheckStyle" alt="CheckStyle" width="30px" src="https://user-images.githubusercontent.com/65444856/133028663-b7a17351-d520-49a7-8888-1fcceeba2c65.png" />
 
 
 

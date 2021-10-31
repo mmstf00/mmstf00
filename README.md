@@ -2,7 +2,6 @@
 ---
 
  - 🌱 I’m currently learning everything 😂
- - 🥅 2021 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 

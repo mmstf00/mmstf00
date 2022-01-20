@@ -1,7 +1,7 @@
 ### Hi there, I'm Mustafa 👋
 ---
 
- - 🌱 I’m currently learning Java
+ - 🌱 I’m currently learning Java Web Development
 
 ### Connect with me:
 

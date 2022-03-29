@@ -1,7 +1,7 @@
 ### Hi there, I'm Mustafa 👋
 ---
 
- - 🌱 I’m currently learning Spring Framework
+ - 🌱 I’m currently learning Spring MVC
 
 ### Connect with me:
 

@@ -1,7 +1,7 @@
 ### Hi there, I'm Mustafa 👋
 ---
 
- - 🌱 I’m currently learning Spring Boot
+ - 🌱 I’m currently learning Spring Data JPA
 
 ### Connect with me:
 

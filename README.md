@@ -1,7 +1,7 @@
 ### Hi there, I'm Mustafa 👋
 ---
 
- - 🌱 I’m currently learning Web Services
+ - 🌱 I’m currently learning Design Patterns
 
 ### Connect with me:
 

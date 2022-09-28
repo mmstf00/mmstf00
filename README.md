@@ -1,8 +1,3 @@
-### Hi there, I'm Mustafa 👋
----
-
- - 🌱 I’m currently learning Design Patterns
-
 ### Connect with me:
 
 [<img align="left" title="LinkedIn" alt="LinkedIn" width="30px" src="https://user-images.githubusercontent.com/65444856/133000567-ab6427ab-5eaf-4e35-8e98-da6d3926b41a.png" />][linkedin]

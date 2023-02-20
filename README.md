@@ -14,23 +14,23 @@ As a Junior Java Developer with over a year of professional experience building 
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-  
-<img align="left" title="C++" alt="C++" width="30px" src="https://user-images.githubusercontent.com/65444856/133030295-4df4d2da-9ea2-4914-af76-aadc8d25657c.png" />&nbsp;
-<img align="left" title="Java" alt="Java" width="30px" src="https://user-images.githubusercontent.com/65444856/133000423-0dcbdaa2-bd4e-4274-9d17-ce056fe319ee.png" />&nbsp;
-<img align="left" title="Spring" alt="Spring" width="30px" src="https://user-images.githubusercontent.com/65444856/158900292-ce5d1974-f344-43b1-906b-fb7ac227aa58.svg" />&nbsp;
-<img align="left" title="JUnit5" alt="JUnit5" width="30px" src="https://user-images.githubusercontent.com/65444856/133000373-50a5b894-f295-4ed9-b165-ea0e9343c583.png" />&nbsp;
-<img align="left" title="Mockito" alt="Mockito" width="30px" src="https://user-images.githubusercontent.com/65444856/133028506-2ed2dc33-8ec7-4817-af2d-bd236ec67bce.png" />&nbsp;
-<img align="left" title="HTML5" alt="HTML5" width="30px" src="https://user-images.githubusercontent.com/65444856/133001496-604bda14-51ef-4fcb-b628-ef5a2c0d022a.png" />&nbsp;
-<img align="left" title="CSS3" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;
-<img align="left" title="JavaScript" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;
-<img align="left" title="Git" alt="Git" width="30px" src="https://user-images.githubusercontent.com/65444856/133001410-5b6b86f3-71e6-494d-9920-8c1be95eb543.png" />&nbsp;
-<img align="left" title="GitHub" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
-<img align="left" title="GitLab" alt="GitLab" width="30px" src="https://user-images.githubusercontent.com/65444856/133000298-37b72739-457a-4ba5-9c6b-d32d88a4b008.png" />&nbsp;
-<img align="left" title="Regex" alt="Regex" width="30px" src="https://user-images.githubusercontent.com/65444856/133237972-1b26c7f8-439b-4993-a770-ebc82815b353.png" />&nbsp;
-<img align="left" title="Terminal" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />&nbsp;
-<img align="left" title="Maven" alt="Maven" width="30px" src="https://user-images.githubusercontent.com/65444856/133030496-f680af1c-3cd6-4af5-af47-f3a75d7c5906.png" />&nbsp;
-<img align ="left" title="Lombok" alt="Lombok" width="30px" src="https://user-images.githubusercontent.com/65444856/150393193-071b179e-7fd0-44d4-9b57-dc9744a0dded.jpg"/>&nbsp;
-  
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50px"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50px"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/65444856/133000373-50a5b894-f295-4ed9-b165-ea0e9343c583.png" title="JUnit5" alt="JUnit5" width="40px"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/65444856/133028506-2ed2dc33-8ec7-4817-af2d-bd236ec67bce.png" title="Mockito" alt="Mockito" width="40px"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="50px"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="50px"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40px"/>&nbsp;
+<img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" title="C++" alt="C++" width="37px"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/65444856/133001410-5b6b86f3-71e6-494d-9920-8c1be95eb543.png" title="Git" alt="Git" width="40px"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40px"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40px"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/65444856/133237972-1b26c7f8-439b-4993-a770-ebc82815b353.png" title="Regex" alt="Regex" width="40px"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal" width="40px"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/65444856/133030496-f680af1c-3cd6-4af5-af47-f3a75d7c5906.png" title="Maven" alt="Maven" width="40px"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/65444856/150393193-071b179e-7fd0-44d4-9b57-dc9744a0dded.jpg" title="Lombok" alt="Lombok" width="40px"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40px"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40px"/>&nbsp;
 </p>
 
 ---

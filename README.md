@@ -36,9 +36,9 @@ As a Junior Java Developer with over a year of professional experience building 
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mmstf00&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmstf00&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mmstf00&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [instagram]: https://www.instagram.com/mmstf00/
 [linkedin]: https://www.linkedin.com/in/mustafa-ercan-3310421a1/

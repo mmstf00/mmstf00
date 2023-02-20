@@ -14,6 +14,7 @@ As a Junior Java Developer with over a year of professional experience building 
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
+  
 <img align="left" title="C++" alt="C++" width="30px" src="https://user-images.githubusercontent.com/65444856/133030295-4df4d2da-9ea2-4914-af76-aadc8d25657c.png" />&nbsp;
 <img align="left" title="Java" alt="Java" width="30px" src="https://user-images.githubusercontent.com/65444856/133000423-0dcbdaa2-bd4e-4274-9d17-ce056fe319ee.png" />&nbsp;
 <img align="left" title="Spring" alt="Spring" width="30px" src="https://user-images.githubusercontent.com/65444856/158900292-ce5d1974-f344-43b1-906b-fb7ac227aa58.svg" />&nbsp;
@@ -29,6 +30,7 @@ As a Junior Java Developer with over a year of professional experience building 
 <img align="left" title="Terminal" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />&nbsp;
 <img align="left" title="Maven" alt="Maven" width="30px" src="https://user-images.githubusercontent.com/65444856/133030496-f680af1c-3cd6-4af5-af47-f3a75d7c5906.png" />&nbsp;
 <img align ="left" title="Lombok" alt="Lombok" width="30px" src="https://user-images.githubusercontent.com/65444856/150393193-071b179e-7fd0-44d4-9b57-dc9744a0dded.jpg"/>&nbsp;
+  
 </p>
 
 ---

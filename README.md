@@ -23,12 +23,8 @@ As a Junior Java Developer with over a year of professional experience building 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40px"/>&nbsp;
 <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" title="C++" alt="C++" width="37px"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/65444856/133001410-5b6b86f3-71e6-494d-9920-8c1be95eb543.png" title="Git" alt="Git" width="40px"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40px"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40px"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/65444856/133237972-1b26c7f8-439b-4993-a770-ebc82815b353.png" title="Regex" alt="Regex" width="40px"/>&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal" width="40px"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/65444856/133030496-f680af1c-3cd6-4af5-af47-f3a75d7c5906.png" title="Maven" alt="Maven" width="40px"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/65444856/150393193-071b179e-7fd0-44d4-9b57-dc9744a0dded.jpg" title="Lombok" alt="Lombok" width="40px"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40px"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40px"/>&nbsp;
 </p>

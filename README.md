@@ -1,7 +1,14 @@
 ### :man_technologist: &nbsp;About Me :
 
 
-As a Junior Java Developer with over a year of professional experience building applications using Java and related technologies, I am deeply passionate about writing clean, maintainable code. I am always eager to explore new technologies and techniques to enhance my skills and deliver the best possible results.
+As a Java Developer with over a two years of professional experience building applications using Java and related technologies, I am deeply passionate about writing clean, maintainable code. 
+I am always eager to explore new technologies and techniques to enhance my skills and deliver the best possible results.
+
+---
+
+🌱 I'm currently learning about the Microservices world.
+
+---
 
 ### Connect with me:
 

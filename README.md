@@ -21,17 +21,17 @@ I am always eager to explore new technologies and techniques to enhance my skill
 ### 🛠 &nbsp;Languages and Tools I use:
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70px"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="70px"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/65444856/133000373-50a5b894-f295-4ed9-b165-ea0e9343c583.png" title="JUnit5" alt="JUnit5" width="60px"/>&nbsp;
-<img src="https://github.com/mmstf00/mmstf00/assets/65444856/88408872-c517-4c6e-bd68-a9990c194a35" title="Mockito" alt="Mockito" width="130px"/>&nbsp;
-<img src="https://github.com/mmstf00/mmstf00/assets/65444856/108360ea-f44d-4577-8654-6d14a26d6d39" title="gRPC" alt="gRPC" width="80px"/>&nbsp;
-<img src="https://github.com/mmstf00/mmstf00/assets/65444856/6551ec96-936a-4972-bffd-4521151b6bf7" title="Kafka" alt="Kafka" width="130px"/>&nbsp;
-<img src="https://github.com/mmstf00/mmstf00/assets/65444856/c8e84d82-ef4e-44ca-a92e-f70a937f61d6" title="Zipkin" alt="Zipkin" width="60px"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/65444856/133001410-5b6b86f3-71e6-494d-9920-8c1be95eb543.png" title="Git" alt="Git" width="60px"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60px"/>&nbsp;
-<img src="https://github.com/mmstf00/mmstf00/assets/65444856/72078251-b466-49da-83b8-b33b572ac754" title="Maven" alt="Maven" width="80px"/>&nbsp;
-<img src="https://github.com/mmstf00/mmstf00/assets/65444856/f895dee7-4fa2-4398-b309-75e30234a87e" title="Maven" alt="Maven" width="60px"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50px"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50px"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/65444856/133000373-50a5b894-f295-4ed9-b165-ea0e9343c583.png" title="JUnit5" alt="JUnit5" width="40px"/>&nbsp;
+<img src="https://github.com/mmstf00/mmstf00/assets/65444856/88408872-c517-4c6e-bd68-a9990c194a35" title="Mockito" alt="Mockito" width="110px"/>&nbsp;
+<img src="https://github.com/mmstf00/mmstf00/assets/65444856/108360ea-f44d-4577-8654-6d14a26d6d39" title="gRPC" alt="gRPC" width="60px"/>&nbsp;
+<img src="https://github.com/mmstf00/mmstf00/assets/65444856/6551ec96-936a-4972-bffd-4521151b6bf7" title="Kafka" alt="Kafka" width="110px"/>&nbsp;
+<img src="https://github.com/mmstf00/mmstf00/assets/65444856/c8e84d82-ef4e-44ca-a92e-f70a937f61d6" title="Zipkin" alt="Zipkin" width="40px"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/65444856/133001410-5b6b86f3-71e6-494d-9920-8c1be95eb543.png" title="Git" alt="Git" width="40px"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40px"/>&nbsp;
+<img src="https://github.com/mmstf00/mmstf00/assets/65444856/72078251-b466-49da-83b8-b33b572ac754" title="Maven" alt="Maven" width="60px"/>&nbsp;
+<img src="https://github.com/mmstf00/mmstf00/assets/65444856/f895dee7-4fa2-4398-b309-75e30234a87e" title="Maven" alt="Maven" width="40px"/>&nbsp;
 
 
 </p>

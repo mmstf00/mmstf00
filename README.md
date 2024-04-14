@@ -49,7 +49,7 @@ Always eager to explore new technologies and techniques to enhance my skills and
 ## 🔥 My Stats:
 
 <p align="center">
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=mmstf00&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="streak"/>
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmstf00&show_icons=true&locale=en&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb" alt="stats"/> 
+<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=mmstf00&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="streak"/>
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmstf00&show_icons=true&locale=en&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb" alt="stats"/> 
 </p>
 

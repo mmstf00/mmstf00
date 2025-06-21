@@ -1,7 +1,7 @@
 ### :man_technologist: &nbsp;About Me :
 
 
-As a Java Developer with over a two years of professional experience building applications using Java and related technologies, I am deeply passionate about writing clean, maintainable code. 
+As a Java Developer with over a three years of professional experience building applications using Java and related technologies, I am deeply passionate about writing clean, maintainable code. 
 Always eager to explore new technologies and techniques to enhance my skills and deliver the best possible results.
 
 ---
